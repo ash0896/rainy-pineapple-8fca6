@@ -12,7 +12,7 @@ mode: light
 base_font: serif
 header:
   title: DIY
-  logo: images/classic/logo.svg
+  logo: logotyp x 3.JPG.jpg
   has_primary_nav: true
   primary_nav_links:
     - label: Features
