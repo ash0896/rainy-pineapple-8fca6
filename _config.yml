@@ -43,6 +43,7 @@ header:
   anncmnt_is_home_only: true
   anncmnt_has_close: true
   anncmnt_id: new-features
+  logo: UU_logo.jpg
 footer:
   logo: images/classic/logo.svg
   has_primary_nav: true
