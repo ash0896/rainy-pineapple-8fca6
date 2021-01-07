@@ -24,7 +24,7 @@ sections:
     has_border: false
   - type: grid_section
     title: Image Grid
-    subtitle: Grid Section Example
+    subtitle: ''
     align: center
     grid_items:
       - image: images/logo-1.svg
