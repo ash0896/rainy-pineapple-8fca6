@@ -26,7 +26,7 @@ header:
     - label: Files
       url: /blog
       style: link
-    - label: Calander
+    - label: Calender
       url: /style-guide
       style: link
   has_secondary_nav: true
