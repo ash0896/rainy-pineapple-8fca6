@@ -14,7 +14,7 @@ header:
   title: ''
   has_primary_nav: true
   primary_nav_links:
-    - label: Team
+    - label: Project
       url: /features
       style: link
     - label: Pricing
