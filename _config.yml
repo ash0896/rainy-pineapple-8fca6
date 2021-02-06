@@ -23,7 +23,7 @@ header:
     - label: Blog
       url: /about
       style: link
-    - label: Blog
+    - label: Files
       url: /blog
       style: link
     - label: Style Guide
