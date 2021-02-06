@@ -17,7 +17,7 @@ header:
     - label: Project
       url: /features
       style: link
-    - label: Pricing
+    - label: Team
       url: /pricing
       style: link
     - label: About
